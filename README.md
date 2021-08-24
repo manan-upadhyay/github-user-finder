@@ -1,4 +1,4 @@
-# github-user-finder
+# Github User Finder
 A user search application implemented by using components in React. GitHub API is used for fetching data.
 
 Note: For Learning Purpose
